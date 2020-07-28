@@ -1,0 +1,113 @@
+[[SpeexDSP]]
+arch = "aarch64"
+git-tree-sha1 = "a9a3930bb3cefaf517f3065beba380a14722f3b5"
+libc = "glibc"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "369c2d4614699ffc4a954a45fa492a55b3a1b2404abd1253ee1933ef7be618ff"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.aarch64-linux-gnu.tar.gz"
+[[SpeexDSP]]
+arch = "aarch64"
+git-tree-sha1 = "c88a9db5ebd706be47a1ea010bc4eed246360940"
+libc = "musl"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "e1763c139c486e6e1f1a3365346028c6d16c5d7f1051ecf929d8fa33db1193b2"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.aarch64-linux-musl.tar.gz"
+[[SpeexDSP]]
+arch = "armv7l"
+git-tree-sha1 = "38c10dd5ee5b9b9a8e99597cab7f2e8428e81f19"
+libc = "glibc"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "41bf4e25597712c991c60339c454fcff7ada0931812887dbea7b479e2bd063e7"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[SpeexDSP]]
+arch = "armv7l"
+git-tree-sha1 = "4c304d4a77660578f1149c12379858c03881a81e"
+libc = "musl"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "c8b11980cca2ded6fa0df0109ca10c690f573321fcd62769a2174d3792282a27"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.armv7l-linux-musleabihf.tar.gz"
+[[SpeexDSP]]
+arch = "i686"
+git-tree-sha1 = "c6b93703e020f18cf868144aa186d2474ec43f8a"
+libc = "glibc"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "b08f2df65c5a75fa76a1c928ea514e3b15895f22defe5b055845d5eebbe9edc3"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.i686-linux-gnu.tar.gz"
+[[SpeexDSP]]
+arch = "i686"
+git-tree-sha1 = "667edfe33f1069763988349b959059e9e32028a1"
+libc = "musl"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "9b0cf4dffc38b8ffef56a4713f74e848199fd7ff4de3790db3bd4c6512d4976b"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.i686-linux-musl.tar.gz"
+[[SpeexDSP]]
+arch = "i686"
+git-tree-sha1 = "4b1740878217ce18fad7874e01699087be9b5956"
+os = "windows"
+
+    [[SpeexDSP.download]]
+    sha256 = "2dd936b8ffe250b0b420497c932c370716389f51999f252b1801c32332240c91"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.i686-w64-mingw32.tar.gz"
+[[SpeexDSP]]
+arch = "powerpc64le"
+git-tree-sha1 = "154ee326bd81fe84b4cf93fb1ef2dab21f60b2e9"
+libc = "glibc"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "5b05d62750e374e7c50d5bbd889794be173474c8a34941e752d5f81dd202c93a"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.powerpc64le-linux-gnu.tar.gz"
+[[SpeexDSP]]
+arch = "x86_64"
+git-tree-sha1 = "182d0dc5e51d024768b20ed117e998369421a0e1"
+os = "macos"
+
+    [[SpeexDSP.download]]
+    sha256 = "b0d00d0163c000c63bad7c1f474c0d7030edc814d9584d3699c090a225e36a47"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.x86_64-apple-darwin14.tar.gz"
+[[SpeexDSP]]
+arch = "x86_64"
+git-tree-sha1 = "de326d59bfbb639f480e638f63e84556e0b9401d"
+libc = "glibc"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "7c667645b1d6b94303e58a92552ae9907352987e3ce8e8fb2a9ceeb01a8a40d2"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.x86_64-linux-gnu.tar.gz"
+[[SpeexDSP]]
+arch = "x86_64"
+git-tree-sha1 = "676e6b69f1b38abf48ca6659334d0118bc9ff6da"
+libc = "musl"
+os = "linux"
+
+    [[SpeexDSP.download]]
+    sha256 = "9283d1bdd470fa550b8a387c2cc41373bec25e4b3b7e5aed23cadc3736b1227e"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.x86_64-linux-musl.tar.gz"
+[[SpeexDSP]]
+arch = "x86_64"
+git-tree-sha1 = "4b83d25a8d501c1f6a380534e9d8cb3c08003525"
+os = "freebsd"
+
+    [[SpeexDSP.download]]
+    sha256 = "39494b33b25dfdafd4ead650e8aef59e6e6d348bdf1c345ae65e8dac14e1cbcc"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[SpeexDSP]]
+arch = "x86_64"
+git-tree-sha1 = "b64291671871d1e9bf366268b5d8816dfd11067f"
+os = "windows"
+
+    [[SpeexDSP.download]]
+    sha256 = "ec424cbb51deae18f9e181ea9f5aa0171c2d86865139aa0e012e3ad1f5dd5e6d"
+    url = "https://github.com/JuliaBinaryWrappers/SpeexDSP_jll.jl/releases/download/SpeexDSP-v1.2.0+0/SpeexDSP.v1.2.0.x86_64-w64-mingw32.tar.gz"

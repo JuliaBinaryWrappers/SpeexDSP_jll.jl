@@ -1,0 +1,10 @@
+name = "SpeexDSP_jll"
+uuid = "f2f9631b-9a4e-5b48-9975-88f638ec36a7"
+version = "1.2.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"
